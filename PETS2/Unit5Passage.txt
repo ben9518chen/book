@@ -2,7 +2,7 @@ The fanmily in the Western world has changed greatly during the last two centuri
 Before the nineteenth century,parents arranged marriages for their children.Young people could not decide whom they wanted to marry. if they dared to,they would be considered to have brought shame and disgrace on the family .After the wedding,the couple would soon start a family.This family was an important part of the larger family of aunts ,uncles,cousins,grandparents,and other relatives .
 At the same time,parents began to realize that they had to take very good care of their children and give them an education,Before this ,most people did not go to school.But now education was necessary for a good life .
 The parents decided they should have fewer children so they could give each more attention.They thought it was important for the mother to spend as much time as possible with her children.Before ,the family all worked together at home .After 1800 more fathers worked outside the home for money Mothers stayed home and had greater control of the home and children.Home was a safe,warm place for the father after work and for the mother and small children all day.The other relatives were still important, but they were separated more than before .
-The family in the Western countries continued to change in the twentieth century. The Women's Liberation Movement started a new trend. Women began to go outside home to work. They requested equal reghts and declared that they are equal to men .As both parents work and have to prove themselves capable in the fierce competition, the family has been undergoing greater changes than ever before.	
+The family in the Western countries continued to change in the twentieth century. The Women's Liberation Movement started a new trend. Women began to go outside home to work. They requested equal <reghts> and declared that they are equal to men .As both parents work and have to prove themselves capable in the fierce competition, the family has been undergoing greater changes than ever before.	
 
 
 
@@ -200,6 +200,40 @@ short
 二十分之一
 num.
 二十分之一;（某月的）二十日第二十
+
+trend
+英 [trend] 美 [trend]
+n.
+趋势;趋向;倾向;动态;动向
+vi.
+倾向;趋势
+
+declared
+英 [dɪˈkleəd] 美 [dɪˈklerd]
+adj.
+公开宣布(或声明、表态)的
+v.
+公布;宣布;宣告;表明;宣称;断言;申报(收益)
+declare的过去分词和过去式
+
+themselves
+英 [ðəmˈselvz] 美 [ðəmˈselvz]
+pron.
+他们自己;她们自己;它们自己;(用以强调they或复数主语)他们(或她们、它们)亲自，他们(或她们、它们)本身;指性别不详的人时，用以代替himself或herself
+herself的复数
+
+
+competition
+英 [ˌkɒmpəˈtɪʃn] 美 [ˌkɑːmpəˈtɪʃn]
+n.
+竞争;角逐;比赛;竞赛;竞争者;对手
+
+undergoing
+英 [ˌʌndəˈɡəʊɪŋ] 美 [ˌʌndərˈɡoʊɪŋ]
+v.
+经历，经受(变化、不快的事等)
+undergo的现在分词
+
 
 参考译文：
 西方社会在过去的两个世纪里发生了巨大的变化，社会科学家认为这是从传统社会向现代社会的重要转变之一。
